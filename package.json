@@ -1,0 +1,11 @@
+{
+  "name": "photoshare",
+  "version": "1.0.0",
+  "description": "App to share photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atul",
+  "license": "ISC"
+}
